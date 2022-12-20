@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkxGjq5yUZNC2oSL/7kwKxsdff+RS9E14GcTwLdckp1r6BpLm4iVnDjfXj10q+0yR+Fn2vMYexCmGF3xQcjjZw==",
+  "success": true,
+  "projectFilePath": "/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Seminar-6/Task-01_48/Task-01_48.csproj",
+  "expectedPackageFiles": [
+    "/home/helene/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
