@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// В двумерном массиве n×k заменить четные элементы на противоположные
+
