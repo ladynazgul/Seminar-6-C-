@@ -7,7 +7,7 @@ double[,] CreateTable(int m, int n)
     {
         for (int j = 0; j < table.GetLength(1); j++)
         {
-            table[i, j] = (new Random()).Next(-20,80)/10.0; // new Random().NextDouble() * 100; - так выдает очень длинные дроби, с диапазоном лучше работает
+            table[i, j] = new Random().NextDouble() * 100; // (new Random()).Next(-20,80)/10.0;   - так выдает очень длинные дроби, с диапазоном лучше работает
         }
     }
     return table;
