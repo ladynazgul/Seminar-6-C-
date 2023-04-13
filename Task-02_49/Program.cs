@@ -37,7 +37,7 @@ void PrintTable(int[,] matr)
     }
 }
 
-int[,] originMatrix = CreateTable(5, 5, 0, 20);
+int[,] originMatrix = CreateTable(5, 4, 0, 20); // если задано показать массив размером m*n, то количество строк и столбцов должно отличаться, вроде, правильно поняла?
 PrintTable(originMatrix);
 Console.WriteLine("---------------");
 int[,] replacedMatrix = ReplaceElements(originMatrix);
