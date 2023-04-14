@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9lo8D5g8wLiAg/n+0bxYTJzCArhjAQvcwRYG/hk6vxAlvoX0Dx9pbIMm5XgfFJ19BJtkgl2S3lRLTWeu8LzDww==",
+  "dgSpecHash": "VSEyEqUeuovzWiP5BuFHlkdO7u+yca+5gZbD927frYiPdxOS8WHN78W4aoN2hagWsoZft6nLmUUirgPvTxNPng==",
   "success": true,
-  "projectFilePath": "D:\\GeekBrains_Git\\Знакомство с языками програмирования_С#\\Seminar-6\\Task-01_48\\Task-01_48.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Seminar-6/Task-01_48/Task-01_48.csproj",
+  "expectedPackageFiles": [
+    "/home/helene/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
