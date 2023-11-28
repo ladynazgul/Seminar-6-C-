@@ -53,7 +53,7 @@ void ShowPosition(int[] pos, int num)
 {
     Console.WriteLine();
     if (pos[0] > 0 && pos[1] > 0) Console.WriteLine($"Число {num} есть в данном архиве. Находится в {pos[0]}-й строке, {pos[1]}-м столбце");
-    else Console.WriteLine($"Числа {num} в данном архиве нет");
+    else Console.WriteLine($"Числа {num} в данном массиве нет");
     Console.WriteLine();
 }
 
