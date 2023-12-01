@@ -33,7 +33,7 @@ double[] GetAverage(int[,] matrix)
         {
             sum = sum + matrix[i, j];
         }
-        average[j] = Math.Round((Convert.ToDouble(sum) / Convert.ToDouble(matrix.GetLength(1))), 1);
+        average[j] = Math.Round((Convert.ToDouble(sum) / Convert.ToDouble(matrix.GetLength(0))), 1);
     }
     return average;
 }

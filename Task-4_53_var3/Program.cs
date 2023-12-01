@@ -73,4 +73,4 @@ if(result == null)
 else
     Console.WriteLine($"Found number in matrix in {result.GetValueOrDefault().Item1} {result.GetValueOrDefault().Item2} positions");
 
-// При варианте без null строка 53 изменяется на if(result[0] == -1 && result[1] == -1)
+// При варианте без null строка 71 изменяется на if(result[0] == -1 && result[1] == -1)
